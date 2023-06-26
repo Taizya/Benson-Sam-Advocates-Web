@@ -635,7 +635,7 @@ body {
 }
 
 .contact-us {
-  background-image: url('images/arcitecture.jpg');
+  background-image: url('./images/arcitecture.jpg');
   background-size: 100vw 200vh;
   background-repeat: no-repeat;
 
